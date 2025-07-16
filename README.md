@@ -7,12 +7,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cristijora&show_icons=true&count_private=true&include_all_commits=true&bg_color=0b2438&text_color=ffff&&title_color=ff6b6b&icon_color=ff6b6b&hide_border=true" alt="Cristi Jora" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **BinarCode**
+- :office: &nbsp;Currently working at **BinarCode**
 - :writing_hand: &nbsp;I write **[articles]** and **[code snippets]** on the BinarCode website.
 - :speech_balloon: &nbsp;I like to talk about **Vue.js** and **JavaScript**
-- :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :bird: &nbsp;Let's talk more in **[Twitter]**
+- :bird: &nbsp;Let's talk more on **[X]**
 
 <br>
 
