@@ -27,8 +27,6 @@
 [articles]: https://www.binarcode.com/blog?tag=vuejs "Articles"
 [code snippets]: https://www.binarcode.com/resources "Code Snippets"
 
-[![Cristi's github activity graph](https://activity-graph.herokuapp.com/graph?username=cristijora&bg_color=0b2438&color=ffff&line=ff6b6b&point=ff6b6b&hide_border=true)](https://github.com/cristijora)
-
 
 
 
